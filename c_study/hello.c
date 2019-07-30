@@ -1,5 +1,5 @@
 #include<studio.h>
-int main()
+int main(void)
 {
 	printf("hello world\n");
 	return 0;
